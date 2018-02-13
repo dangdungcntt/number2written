@@ -1,0 +1,24 @@
+{
+  "name": "number2written",
+  "version": "1.0.0",
+  "description": "Get written text of number",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangdungcntt/number2written.git"
+  },
+  "keywords": [
+    "number",
+    "written",
+    "number to words"
+  ],
+  "author": "DangDung <dangdungcntt@gmail.com> (dangdungcntt.wordpress.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dangdungcntt/number2written/issues"
+  },
+  "homepage": "https://github.com/dangdungcntt/number2written#readme"
+}
