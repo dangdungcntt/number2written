@@ -15,7 +15,7 @@ npm install number2written
 ``` js
 const number2Written = require('number2written');
 
-console.log(number2Written(123123)); //năm trăm năm mươi lăm nghìn năm trăm năm mươi lăm
+console.log(number2Written(555555)); //năm trăm năm mươi lăm nghìn năm trăm năm mươi lăm
 ```
 ### Update			
 Since the number2written binary is updated regularly, you can run `npm update` to check for and download any updates for it.		
